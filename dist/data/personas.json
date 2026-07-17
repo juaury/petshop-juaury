@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "nombre": "Sofía Martínez",
+    "puesto": "Atención al Cliente",
+    "imagen": "/images/perfil1.png"
+  },
+  {
+    "id": 2,
+    "nombre": "Lucas Fernández",
+    "puesto": "Veterinario Asesor",
+    "imagen": "/images/perfil2.png"
+  },
+  {
+    "id": 3,
+    "nombre": "Valentin Gómez",
+    "puesto": "Gestión de Pedidos",
+    "imagen": "/images/perfil3.png"
+  }
+]
